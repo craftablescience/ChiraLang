@@ -1,0 +1,5 @@
+int x = 10
+int y = 5
+if x >= y int z = 9
+if x < y int z = 7
+print z **= 3
